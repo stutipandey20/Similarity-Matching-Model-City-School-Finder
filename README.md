@@ -60,3 +60,7 @@ To contribute, fork the repository and create a pull request with your enhanceme
 
 ## Conclusion
 This project empowers parents with data-driven insights, improving their decision-making process and supporting their children's educational journey by providing personalized school recommendations.
+
+## LICENSE
+
+[MIT LICENSE](LICENSE)
